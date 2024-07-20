@@ -1,4 +1,4 @@
-# input
+# inputbox
 ## Description
 This is a simple program that posts a note to a
 personal api endpoint. The note is stored in a
@@ -38,7 +38,7 @@ go build
 The api endpoint must be a POST request that accepts a JSON object with the following format.
 ```json
 {
-    "input": "This is a note."
+    "text": "This is a note."
 }
 ```
 

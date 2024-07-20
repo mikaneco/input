@@ -1,4 +1,4 @@
-module fyne-app
+module github.com/mikaneco/inputbox
 
 go 1.22.3
 
